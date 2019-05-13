@@ -6,6 +6,6 @@ package 图;
  * @description: 图的结点类
  */
 public class Vertex {
-    String verName; //结点名字
+    int verIndex; //结点名字
     Edge edgeLink; //边链
 }

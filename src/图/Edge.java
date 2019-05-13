@@ -6,7 +6,7 @@ package 图;
  * @description: 图的边表示
  */
 public class Edge {
-    String tailName; //边的尾部节点名称
+    int tailName; //边的尾部节点名称
     int weight; //边的权值
     Edge broEdge; //下一条边
 }
