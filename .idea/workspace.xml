@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b849e0a0-fff2-49f9-9d0c-b69c081bdd01" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/交错01串/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/图/BreadthFirstPaths.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/图/DepthFirstSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/图/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/归并排序/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/操作序列/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/数组的最小和/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/独立的小易/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/移出栈底/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/最大子数组的和/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/AlgorithmicPractice/彩色的砖块/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AlgorithmicPractice/彩色的砖块/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/图/Edge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/图/Edge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/图/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/图/Graph.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/图/Vertex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/图/Vertex.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,7 +16,7 @@
     <session id="568986471">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="14" />
+          <entry key="project.closed" value="15" />
           <entry key="project.open.time.0" value="3" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.10" value="1" />
@@ -41,39 +29,30 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="27" />
+          <entry key="java" value="28" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="27" />
+          <entry key="JAVA" value="28" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="18192" />
+          <entry key="java" value="18536" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="18192" />
+          <entry key="JAVA" value="18536" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/图/DepthFirstSearch.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/图/BreadthFirstPaths.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -95,11 +74,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/数组的最小和/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+            <state relative-caret-position="270">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/最大子数组的和/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -197,6 +185,7 @@
         <option value="$PROJECT_DIR$/src/移出栈底/Main.java" />
         <option value="$PROJECT_DIR$/src/归并排序/Main.java" />
         <option value="$PROJECT_DIR$/src/数组的最小和/Main.java" />
+        <option value="$PROJECT_DIR$/src/最大子数组的和/Main.java" />
       </list>
     </option>
   </component>
@@ -215,9 +204,9 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="218" />
-    <option name="y" value="108" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="273" />
+    <option name="y" value="143" />
     <option name="width" value="1128" />
     <option name="height" value="833" />
   </component>
@@ -239,12 +228,6 @@
               <item name="AlgorithmicPractice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="AlgorithmicPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgorithmicPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="数组的最小和" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -256,7 +239,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557714948161" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557738637733" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
@@ -275,7 +258,7 @@
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="数组的最小和.Main" />
+      <option name="MAIN_CLASS_NAME" value="最大子数组的和.Main" />
       <module name="AlgorithmicPractice" />
       <extension name="coverage">
         <pattern>
@@ -319,18 +302,17 @@
       <workItem from="1557217717511" duration="8343000" />
       <workItem from="1557233430223" duration="2096000" />
       <workItem from="1557239018234" duration="2264000" />
-      <workItem from="1557666724691" duration="6960000" />
+      <workItem from="1557666724691" duration="9865000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64703000" />
+    <option name="totallyTimeSpent" value="67608000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
+    <frame x="273" y="143" width="1128" height="833" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17399268" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26243094" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -339,7 +321,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2489796" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32928476" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3994602" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -557,8 +539,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/数组的最小和/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="28" lean-forward="true" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/最大子数组的和/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
         </state>
       </provider>
     </entry>
