@@ -2,18 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b849e0a0-fff2-49f9-9d0c-b69c081bdd01" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/AlgorithmicPractice/牛牛与世界杯门票/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AlgorithmicPractice/牛牛与妞妞/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AlgorithmicPractice/牛牛偶像养成记/Main$Show.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AlgorithmicPractice/牛牛偶像养成记/Main$cmp.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AlgorithmicPractice/牛牛偶像养成记/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/AlgorithmicPractice/牛牛数星星/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/牛牛与世界杯门票/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/牛牛与妞妞/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/牛牛偶像养成记/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/牛牛数星星/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/牛牛游玩记/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/堆棋子/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/牛牛与妞妞/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/牛牛与妞妞/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,38 +17,38 @@
     <session id="568986471">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="23" />
-          <entry key="project.open.time.0" value="4" />
+          <entry key="project.closed" value="25" />
+          <entry key="project.open.time.0" value="5" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.30951" value="1" />
           <entry key="project.open.time.4" value="4" />
-          <entry key="project.open.time.5" value="9" />
+          <entry key="project.open.time.5" value="10" />
           <entry key="project.open.time.6" value="3" />
-          <entry key="project.opened" value="26" />
+          <entry key="project.opened" value="28" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="43" />
+          <entry key="java" value="45" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="43" />
+          <entry key="JAVA" value="45" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="26411" />
+          <entry key="java" value="27821" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="26411" />
+          <entry key="JAVA" value="27821" />
         </counts>
       </usages-collector>
     </session>
@@ -65,22 +56,34 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/最大子数组的和/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/牛牛游玩记/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+            <state relative-caret-position="337">
+              <caret line="38" column="42" lean-forward="true" selection-start-line="38" selection-start-column="42" selection-end-line="38" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/堆棋子/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25">
+              <caret line="25" column="51" lean-forward="true" selection-start-line="25" selection-start-column="51" selection-end-line="25" selection-end-column="51" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/牛牛游玩记/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/牛牛与妞妞/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="22" column="39" lean-forward="true" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="560">
+              <caret line="45" selection-start-line="45" selection-end-line="45" />
             </state>
           </provider>
         </entry>
@@ -133,21 +136,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/IPsort/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="142">
-              <caret line="17" column="55" lean-forward="true" selection-start-line="17" selection-start-column="55" selection-end-line="17" selection-end-column="55" />
+            <state relative-caret-position="255">
+              <caret line="17" column="55" selection-start-line="17" selection-start-column="55" selection-end-line="17" selection-end-column="55" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/牛牛偶像养成记/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="36" column="33" lean-forward="true" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
-              <folding>
-                <element signature="e#691#692#0" expanded="true" />
-                <element signature="e#730#731#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="255">
+              <caret line="20" column="36" lean-forward="true" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -201,9 +200,10 @@
         <option value="$PROJECT_DIR$/src/牛牛偶像养成记/cmp.java" />
         <option value="$PROJECT_DIR$/src/牛牛数星星/Main.java" />
         <option value="$PROJECT_DIR$/src/牛牛与世界杯门票/Main.java" />
-        <option value="$PROJECT_DIR$/src/牛牛与妞妞/Main.java" />
         <option value="$PROJECT_DIR$/src/牛牛游玩记/Main.java" />
         <option value="$PROJECT_DIR$/src/牛牛偶像养成记/Main.java" />
+        <option value="$PROJECT_DIR$/src/牛牛与妞妞/Main.java" />
+        <option value="$PROJECT_DIR$/src/堆棋子/Main.java" />
       </list>
     </option>
   </component>
@@ -223,8 +223,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="107" />
-    <option name="y" value="87" />
+    <option name="x" value="340" />
+    <option name="y" value="51" />
     <option name="width" value="1280" />
     <option name="height" value="941" />
   </component>
@@ -234,6 +234,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -250,26 +252,18 @@
               <item name="AlgorithmicPractice" type="b2602c69:ProjectViewProjectNode" />
               <item name="AlgorithmicPractice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="牛牛偶像养成记" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="AlgorithmicPractice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AlgorithmicPractice" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="牛牛游玩记" type="462c0819:PsiDirectoryNode" />
+              <item name="堆棋子" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558511408932" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558964836621" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
@@ -288,7 +282,7 @@
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="牛牛偶像养成记.Main" />
+      <option name="MAIN_CLASS_NAME" value="堆棋子.Main" />
       <module name="AlgorithmicPractice" />
       <extension name="coverage">
         <pattern>
@@ -341,18 +335,20 @@
       <workItem from="1558402016602" duration="343000" />
       <workItem from="1558451566248" duration="2492000" />
       <workItem from="1558492445376" duration="1950000" />
-      <workItem from="1558500492081" duration="6306000" />
+      <workItem from="1558500492081" duration="7805000" />
+      <workItem from="1558617269745" duration="322000" />
+      <workItem from="1558961291939" duration="2942000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="92474000" />
+    <option name="totallyTimeSpent" value="97237000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="472" y="149" width="1280" height="941" extended-state="0" />
+    <frame x="311" y="163" width="1280" height="941" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26655897" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2746365" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -552,10 +548,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/牛牛与妞妞/Main.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/Comparator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="31" column="28" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+        <state relative-caret-position="154">
+          <caret line="157" column="74" selection-start-line="157" selection-start-column="67" selection-end-line="157" selection-end-column="74" />
         </state>
       </provider>
     </entry>
@@ -603,35 +599,41 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/IPsort/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="17" column="55" lean-forward="true" selection-start-line="17" selection-start-column="55" selection-end-line="17" selection-end-column="55" />
+        <state relative-caret-position="255">
+          <caret line="17" column="55" selection-start-line="17" selection-start-column="55" selection-end-line="17" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/牛牛偶像养成记/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="20" column="36" lean-forward="true" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/牛牛游玩记/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="22" column="39" lean-forward="true" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
+        <state relative-caret-position="337">
+          <caret line="38" column="42" lean-forward="true" selection-start-line="38" selection-start-column="42" selection-end-line="38" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/Comparator.java">
+    <entry file="file://$PROJECT_DIR$/src/牛牛与妞妞/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="157" column="74" selection-start-line="157" selection-start-column="67" selection-end-line="157" selection-end-column="74" />
+        <state relative-caret-position="560">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/牛牛偶像养成记/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/堆棋子/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="36" column="33" lean-forward="true" selection-start-line="36" selection-start-column="33" selection-end-line="36" selection-end-column="33" />
+        <state relative-caret-position="25">
+          <caret line="25" column="51" lean-forward="true" selection-start-line="25" selection-start-column="51" selection-end-line="25" selection-end-column="51" />
           <folding>
-            <element signature="e#691#692#0" expanded="true" />
-            <element signature="e#730#731#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

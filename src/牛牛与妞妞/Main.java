@@ -39,7 +39,7 @@ public class Main {
             visited[i] -= 1;
             sum2 -= i;
         }
-        System.out.println(cnt);
+        //System.out.println(cnt);
         System.out.println(String.format("%.4f",cnt*1.0/2070));
     }
 }
