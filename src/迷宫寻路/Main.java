@@ -41,7 +41,7 @@ public class Main {
         Queue<Integer> queue = new LinkedList<>();
         queue.offer(startX);queue.offer(startY);queue.offer(0);
         while(!queue.isEmpty()){
-            int num = queue.size()/3; //带有计数的程序遍历
+            int num = queue.size()/3; //带有计数的层序遍历
             res ++; //层数
             while(num > 0){
                 startX = queue.poll();startY = queue.poll();int k = queue.poll();

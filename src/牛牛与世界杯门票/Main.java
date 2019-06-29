@@ -16,8 +16,8 @@ public class Main {
         int[] x = new int[m];
         int[] y = new int[m];
         for(int i=0;i<m;i++){
-            x[i] = sc.nextInt();
-            y[i] = sc.nextInt();
+            x[i] = sc.nextInt(); //价格
+            y[i] = sc.nextInt(); //门票的数量
         }
         int[] dp = new int[n+2];
         for(int i=1;i<=n+1;i++)
