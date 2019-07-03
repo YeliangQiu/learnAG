@@ -2,20 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b849e0a0-fff2-49f9-9d0c-b69c081bdd01" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Combination_Sum/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Combination_Sum2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/偶串/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/加减二叉树/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/彩色瓷砖/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/快速排序/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/疯狂队列/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/背包01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/连续子数列之和等于k的个数/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/阿里面试/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/阿里面试/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Combination_Sum3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/素数/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/羊群问题/isRed.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/牛牛与世界杯门票/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/牛牛与世界杯门票/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/迷宫寻路/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/迷宫寻路/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,39 +18,39 @@
     <session id="568986471">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="37" />
+          <entry key="project.closed" value="40" />
           <entry key="project.open.time.0" value="6" />
           <entry key="project.open.time.1" value="6" />
           <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.30951" value="1" />
-          <entry key="project.open.time.4" value="7" />
-          <entry key="project.open.time.5" value="12" />
+          <entry key="project.open.time.4" value="8" />
+          <entry key="project.open.time.5" value="13" />
           <entry key="project.open.time.6" value="3" />
           <entry key="project.open.time.7" value="2" />
-          <entry key="project.opened" value="40" />
+          <entry key="project.opened" value="42" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="64" />
+          <entry key="java" value="70" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="64" />
+          <entry key="JAVA" value="70" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="33249" />
+          <entry key="java" value="34396" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="33249" />
+          <entry key="JAVA" value="34396" />
         </counts>
       </usages-collector>
     </session>
@@ -79,11 +69,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Combination_Sum/Main.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Combination_Sum3/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="61">
-              <caret line="12" column="2" lean-forward="true" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+            <state relative-caret-position="540">
+              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -91,11 +81,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Combination_Sum2/Main.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/素数/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="404">
-              <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+            <state relative-caret-position="255">
+              <caret line="17" column="11" lean-forward="true" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -103,17 +93,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/彩色的砖块/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="22" column="34" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="34" />
+            <state relative-caret-position="165">
+              <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/归并排序/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/羊群问题/isRed.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="69" selection-start-line="20" selection-start-column="69" selection-end-line="20" selection-end-column="69" />
+            <state relative-caret-position="255">
+              <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -230,6 +223,10 @@
         <option value="$PROJECT_DIR$/src/连续子数列之和等于k的个数/Main.java" />
         <option value="$PROJECT_DIR$/src/Combination_Sum/Main.java" />
         <option value="$PROJECT_DIR$/src/Combination_Sum2/Main.java" />
+        <option value="$PROJECT_DIR$/src/Combination_Sum3/Main.java" />
+        <option value="$PROJECT_DIR$/src/羊群问题/Main.java" />
+        <option value="$PROJECT_DIR$/src/羊群问题/isRed.java" />
+        <option value="$PROJECT_DIR$/src/素数/Main.java" />
       </list>
     </option>
   </component>
@@ -249,10 +246,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="241" />
-    <option name="y" value="122" />
-    <option name="width" value="1432" />
-    <option name="height" value="884" />
+    <option name="x" value="101" />
+    <option name="y" value="92" />
+    <option name="width" value="1314" />
+    <option name="height" value="862" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -260,6 +257,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -284,18 +283,40 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Combination_Sum2" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="AlgorithmicPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmicPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Combination_Sum3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlgorithmicPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmicPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="素数" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlgorithmicPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmicPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="羊群问题" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AlgorithmicPractice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AlgorithmicPractice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="连续子数列之和等于k的个数" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561825793761" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562164042481" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Libraries" />
@@ -317,7 +338,7 @@
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Combination_Sum2.Main" />
+      <option name="MAIN_CLASS_NAME" value="Combination_Sum3.Main" />
       <module name="AlgorithmicPractice" />
       <extension name="coverage">
         <pattern>
@@ -384,17 +405,20 @@
       <workItem from="1560943262680" duration="2813000" />
       <workItem from="1560948313830" duration="795000" />
       <workItem from="1561543995820" duration="3910000" />
-      <workItem from="1561804426719" duration="3845000" />
+      <workItem from="1561804426719" duration="5026000" />
+      <workItem from="1561894950630" duration="3131000" />
+      <workItem from="1562163972446" duration="91000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="135766000" />
+    <option name="totallyTimeSpent" value="140169000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="241" y="122" width="1432" height="884" extended-state="0" />
+    <frame x="101" y="92" width="1314" height="862" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28920862" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3254717" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -403,8 +427,8 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.36742425" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3994602" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.36623377" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.24155845" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -679,10 +703,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/彩色的砖块/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/Combination_Sum/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="22" column="34" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="34" />
+        <state relative-caret-position="210">
+          <caret line="15" selection-start-line="15" selection-end-line="45" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Combination_Sum2/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -690,6 +724,24 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="20" column="69" selection-start-line="20" selection-start-column="69" selection-end-line="20" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/羊群问题/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/彩色的砖块/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/羊群问题/isRed.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -741,20 +793,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Combination_Sum/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/素数/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="61">
-          <caret line="12" column="2" lean-forward="true" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="255">
+          <caret line="17" column="11" lean-forward="true" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Combination_Sum2/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/Combination_Sum3/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="404">
-          <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+        <state relative-caret-position="540">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
