@@ -31,15 +31,15 @@ public class Main {
 
     public static void solution(int total, int[] arrA, int[] arrB) {
         int n = arrA.length; //物品数量
-        int[] w = new int[n + 1];
-        int[] v = new int[n + 1];
-        int[][] G = new int[n + 1][total + 1];
-        for (int i = 1; i < n + 1; i++) {
+        int[] w = new int[n + 1]; //物品重量
+        int[] v = new int[n + 1]; //物品价值
+        int[][] G = new int[n + 1][total + 1]; //标志位？
+        for (int i = 1; i < n + 1; i++) { //?
             w[i] = arrA[i - 1];
             v[i] = arrB[i - 1];
         }
 
-        int[] values = new int[total + 1];
+        int[] values = new int[total + 1];//DP数组
         for (int i = 1; i < n + 1; i++) {
             for (int t = total; t >= w[i]; t--) {
                 if (values[t] < values[t - w[i]] + v[i]) {
